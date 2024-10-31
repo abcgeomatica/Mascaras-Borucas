@@ -1,7 +1,10 @@
 # MASCARAS BORUCAS EN 3D
 
 Este repositorio contiene los archivos en formato *.blend y *.obj de las mascaras en 3D
-Asi como las texturas y rugosidades para dar color a los modelos
+Asi como las texturas y rugosidades para dar color a los modelos.
+Estas son generadas a partir de una fotografia en 2D con AI desde el siguiente vinculo
+https://hyperhuman.deemos.com/
+
 
 ---
 Primero se procede a descargar los archivos desde el repositorio
@@ -29,7 +32,8 @@ nuestro caso es el subdirectorio de "Descargas"
 
 https://github.com/user-attachments/assets/631ca2fb-a73e-4830-9fb7-afc7d9c294f6
 
-
+En modo edicion se puede ver la malla que define la mascara en 3D, ademas de ver animacion 
+configurada en el archivo blender. Tambien se puede realizar los render de imagen y animacion 
 
 https://github.com/user-attachments/assets/f62ac51e-5222-44e5-98d8-14e31c5dc1c0
 
