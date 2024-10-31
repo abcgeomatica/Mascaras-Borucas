@@ -5,13 +5,12 @@ Asi como las texturas y rugosidades para dar color a los modelos
 
 ---
 <video width="320" height="240" controls>
-  <source src="(https://github.com/abcgeomatica/Mascaras-Borucas/blob/main/01.mp4)" type="video/mp4">
+  <source src="https://github.com/abcgeomatica/Mascaras-Borucas/blob/main/01.mp4" type="video/mp4">
   Tu navegador no soporta la etiqueta de video.
 </video>
 
 
 
-![MAPA ORIGINAL](https://github.com/abcgeomatica/guanacaste1924/blob/326ead36c9acbff712124d3dbc2abc6faaf7264f/MapaGuanacaste1924.png)
 
 
 
