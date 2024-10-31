@@ -33,5 +33,9 @@ https://github.com/user-attachments/assets/631ca2fb-a73e-4830-9fb7-afc7d9c294f6
 
 https://github.com/user-attachments/assets/f62ac51e-5222-44e5-98d8-14e31c5dc1c0
 
+El video de las mascaras se puede ver en el siguiente vinculo
+
+<video src="[(https://youtu.be/edJNdHZgMQQ)]" width="320" height="240" controls></video>
 
 
+https://youtu.be/edJNdHZgMQQ
