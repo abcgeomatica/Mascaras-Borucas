@@ -37,6 +37,9 @@ configurada en el archivo blender. Tambien se puede realizar los render de image
 
 https://github.com/user-attachments/assets/f62ac51e-5222-44e5-98d8-14e31c5dc1c0
 
+---
+
+
 El video de las mascaras se puede ver en el siguiente vinculo
 
 [![Watch the video](https://img.youtube.com/vi/edJNdHZgMQQ/maxresdefault.jpg)](https://youtu.be/edJNdHZgMQQ)
