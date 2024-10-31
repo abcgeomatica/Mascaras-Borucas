@@ -12,12 +12,14 @@ Continuamos descargando los archivos en el directorio de descargas.
 Para abrir archivo con extension .blend se debe tener instalado el software libre Blender 4.xxx
 Se ecuentra en la siguiente direccion:
 https://www.blender.org/download/
-Una vez instalado damos clic sobre el archivo descargado 
+Una vez instalado damos clic sobre el archivo boruca##.blend descargado 
 
 
 https://github.com/user-attachments/assets/eb6f6cd0-f8b7-40f6-a892-6ad5e68063fc
 
-
+Una vez cargado el archivo, presionamos el icono de la camara para desactivar esta vista,
+luego presionamos en barra de herramientas "Shading".  Para actualizar los archivos de textura
+nos vamos a la barra "Edit" presionamos comando "External data" para luego presionar 
 
 https://github.com/user-attachments/assets/8e713953-cb9d-4d1b-9569-6e0c1964774e
 
