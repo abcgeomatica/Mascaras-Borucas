@@ -4,8 +4,10 @@ Este repositorio contiene los archivos en formato *.blend y *.obj de las mascara
 Asi como las texturas y rugosidades para dar color a los modelos
 
 ---
-[LIBRO Parte1](https://drive.google.com/file/d/1vxeLwZYv10P4JWxY9IUhDLlO4F-8P8bA/view?usp=drive_link)
-[LIBRO Parte2](https://drive.google.com/file/d/1yjeKmIe_zD89cQwK8GP8ujh0tBu91-KT/view?usp=sharing)
+<video width="320" height="240" controls>
+  <source src="(https://github.com/abcgeomatica/Mascaras-Borucas/blob/main/01.mp4)" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 
 
 
