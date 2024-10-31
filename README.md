@@ -5,12 +5,4 @@ Asi como las texturas y rugosidades para dar color a los modelos
 
 ---
 
-
 https://github.com/user-attachments/assets/399a8519-84cf-441b-95d8-869343c93738
-
-
-
-MAPA INTERACTIVO
-https://abcgeomatica.github.io/guanacaste1924/
-
-
