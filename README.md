@@ -8,6 +8,11 @@ Primero se procede a descargar los archivos desde el repositorio
 
 https://github.com/user-attachments/assets/64d91bd1-2b8c-41af-bbdc-51c475e33783
 
+Continuamos descargando los archivos en el directorio de descargas.
+Para abrir archivo con extension .blend se debe tener instalado el software libre Blender 4.xxx
+Se ecuentra en la siguiente direccion:
+https://www.blender.org/download/
+Una vez instalado damos clic sobre el archivo descargado 
 
 
 https://github.com/user-attachments/assets/eb6f6cd0-f8b7-40f6-a892-6ad5e68063fc
