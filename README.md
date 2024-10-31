@@ -23,7 +23,8 @@ nos vamos a la barra "Edit" presionamos comando "External data" para luego presi
 
 https://github.com/user-attachments/assets/8e713953-cb9d-4d1b-9569-6e0c1964774e
 
-
+El comando "Find missing files" para buscar el directorio donde se encuentra los archivos de textura, 
+nuestro caso es el subdirectorio de "Descargas"
 
 
 https://github.com/user-attachments/assets/631ca2fb-a73e-4830-9fb7-afc7d9c294f6
