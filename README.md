@@ -4,6 +4,7 @@ Este repositorio contiene los archivos en formato *.blend y *.obj de las mascara
 Asi como las texturas y rugosidades para dar color a los modelos.
 Estas son generadas a partir de una fotografia en 2D con AI desde el siguiente vinculo
 https://hyperhuman.deemos.com/
+![collage](https://github.com/user-attachments/assets/cdc6ef5d-ca35-44a6-b8da-0bbb356c0c82)
 
 
 ---
