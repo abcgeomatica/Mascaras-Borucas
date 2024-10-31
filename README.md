@@ -37,5 +37,5 @@ El video de las mascaras se puede ver en el siguiente vinculo
 
 <video src="[https://youtu.be/edJNdHZgMQQ]" width="320" height="240" controls></video>
 
+https://youtu.be/edJNdHZgMQQ?si=g1B6pxl2ajGl_cr1
 
-https://youtu.be/edJNdHZgMQQ
