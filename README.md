@@ -1,6 +1,11 @@
 # MASCARAS BORUCAS EN 3D
 --- 
 
+Comprar mascaras  https://ranchobrugra.com/
+
+---
+---
+
 Este repositorio contiene los archivos en formato *.blend y *.obj de las mascaras en 3D
 Asi como las texturas y rugosidades para dar color a los modelos.
 Estas son generadas a partir de una fotografia en 2D con AI desde el siguiente vinculo
