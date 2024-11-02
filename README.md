@@ -16,7 +16,10 @@ https://hyperhuman.deemos.com/
 
 
 ---
-Primero se procede a descargar los archivos desde el repositorio
+Primero se procede a descargar los archivos desde el repositorio de una de las 20 mascaras
+disponibles.   Son 3 archivos por mascara, el primero con extension *.blend que contiene los
+parametros de luz, animacion, textura y rugosidad de la mascara; y luego dos archivos de imagen
+con la textura y rugosidad.
 
 https://github.com/user-attachments/assets/64d91bd1-2b8c-41af-bbdc-51c475e33783
 
