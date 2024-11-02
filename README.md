@@ -47,7 +47,14 @@ https://github.com/user-attachments/assets/631ca2fb-a73e-4830-9fb7-afc7d9c294f6
 En modo edicion se puede ver la malla que define la mascara en 3D, ademas de ver animacion 
 configurada en el archivo blender. Tambien se puede realizar los render de imagen y animacion 
 
-https://github.com/user-attachments/assets/f62ac51e-5222-44e5-98d8-14e31c5dc1c0
+
+
+
+https://github.com/user-attachments/assets/96c59a8a-893c-497e-8d30-d34fb7cb5697
+
+
+
+
 ---
 
 Tambien puede descargar los modelos en diferentes formatos desde sketchfab
