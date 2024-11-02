@@ -48,6 +48,11 @@ En modo edicion se puede ver la malla que define la mascara en 3D, ademas de ver
 configurada en el archivo blender. Tambien se puede realizar los render de imagen y animacion 
 
 https://github.com/user-attachments/assets/f62ac51e-5222-44e5-98d8-14e31c5dc1c0
+---
+
+Tambien puede descargar los modelos en diferentes formatos desde sketchfab
+
+https://sketchfab.com/oasotob/collections/mascaras-borucas-3e9788947f214e2eb1fd0c1e52cc810e
 
 ---
 
